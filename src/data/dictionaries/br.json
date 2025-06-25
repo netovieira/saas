@@ -1,0 +1,79 @@
+{
+  "actions": {
+    "list": "listar",
+    "new": "novo",
+    "add": "adicionar",
+    "update": "atualizar",
+    "create": "criar",
+    "delete": "excluir",
+    "or": "ou",
+    "createAccount": "crie sua conta",
+    "alreadyAccount": "já tem uma conta?",
+    "signIn": "entrar",
+    "signOut": "sair",
+    "signUp": "registrar"
+  },
+  "navigation": {
+    "home": "início",
+    "resources": "recursos"
+  },
+  "resources": {
+    "user": "usuário",
+    "users": "usuários",
+    "product": "produto",
+    "products": "produtos",
+    "customer": "cliente",
+    "customers": "clientes"
+  },
+
+  "fields": {
+    "email": {
+      "label": "e-mail",
+      "placeholder": "seu@email.com"
+    },
+    "password": {
+      "label": "senha",
+      "placeholder": "sua senha"
+    },
+    "confirmPassword": {
+      "label": "confirmar senha",
+      "placeholder": "confirme sua senha"
+    }
+  },
+
+  "validation": {
+    "required": "Este campo é obrigatório",
+    "email": {
+      "invalid": "E-mail inválido"
+    },
+    "password": {
+      "minLength": "A senha deve ter pelo menos 8 caracteres",
+      "uppercase": "A senha deve conter pelo menos uma letra maiúscula",
+      "lowercase": "A senha deve conter pelo menos uma letra minúscula",
+      "special": "A senha deve conter pelo menos um caractere especial",
+      "mismatch": "As senhas não coincidem"
+    }
+  },
+
+  "pages" : {
+    "signIn": {
+      "title": "bem-vindo(a) ao ",
+      "subtitle": "Por favor, entre com sua conta e continue sua aventura",
+      "submit": "clique para entrar",
+      "remember": "Manter-me logado",
+      "forgotPassword": "Recuperar senha"
+    },
+    "signUp": {
+      "title": "bem-vindo(a) ao ",
+      "subtitle": "Por favor, crie sua conta e comece a aventura",
+      "submit": "cique e crie sua conta!"
+    }
+  },
+
+  "terms": {
+    "labelPrefix": "Eu aceito os ",
+    "label": "termos e condições",
+    "title": "Termos e condições de Uso",
+    "subtitle": "Leia atentamente os termos antes de utilizar o sistema!"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "actions": {
+    "list": "list",
+    "new": "new",
+    "add": "add",
+    "update": "update",
+    "create": "create",
+    "delete": "delete",
+    "or": "or",
+    "createAccount": "create an account",
+    "alreadyAccount": "already have an account?",
+    "signIn": "sign in",
+    "signOut": "sign out",
+    "signUp": "sign up"
+  },
+  "navigation": {
+    "home": "home",
+    "resources": "resources"
+  },
+  "resources": {
+    "user": "user",
+    "users": "users",
+    "product": "product",
+    "products": "products",
+    "customer": "customer",
+    "customers": "customers"
+  },
+
+  "fields": {
+    "email": {
+      "label": "email",
+      "placeholder": "your@email.com"
+    },
+    "password": {
+      "label": "password",
+      "placeholder": "your best password"
+    },
+    "confirmPassword": {
+      "label": "confirm password",
+      "placeholder": "confirm your password"
+    }
+  },
+
+  "validation": {
+    "required": "This field is required",
+    "email": {
+      "invalid": "Email is invalid"
+    },
+    "password": {
+      "minLength": "Password must be at least 8 characters long",
+      "uppercase": "Password must contain at least one uppercase letter",
+      "lowercase": "Password must contain at least one lowercase letter",
+      "special": "Password must contain at least one special character",
+      "mismatch": "Passwords do not match"
+    }
+  },
+
+  "pages" : {
+    "signIn": {
+      "title": "Welcome to",
+      "subtitle": "Please sign-in to your account and continue your adventure",
+      "submit": "click to sign in",
+      "remember": "Remember me",
+      "forgotPassword": "Forgot password?"
+    },
+    "signUp": {
+      "title": "Welcome to",
+      "subtitle": "Please sign-up to your account and start the adventure",
+      "submit": "click and create your account!"
+    }
+  },
+
+  "terms": {
+    "labelPrefix": "I accept the ",
+    "label": "terms and Conditions of Use",
+    "title": "Terms and Conditions of Use",
+    "subtitle": "Please read the Terms and Conditions carefully before using Our Service."
+  }
+}

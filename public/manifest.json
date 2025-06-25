@@ -1,0 +1,25 @@
+{
+  "name": "SAAS",
+  "short_name": "pSAAS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-1.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
